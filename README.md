@@ -1,4 +1,4 @@
-# Hi, I'm Sidharth Hitesh
+# Hi, I'm Sidharth Ritesh
 
 ## About Me
 
