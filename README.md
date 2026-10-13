@@ -30,3 +30,19 @@ A beginner-friendly game built with HTML, CSS, and JavaScript.
 - Create a strong developer portfolio
 
 Thanks for visiting my profile!
+
+## Featured Projects
+
+| Project | Description | Links |
+|---|---|---|
+| Number Guessing Game | An interactive game built with HTML, CSS, and JavaScript. | [Code](https://github.com/sidharthritesh18-dot/number-guessing-game- ) · [Live Demo](https://sidharthritesh18-dot.github.io/number-guessing-game-/ ) |
+| My First Project | My first GitHub project while learning the Git workflow. | [View Project](https://github.com/sidharthritesh18-dot/my-first-project ) |
+
+## Current Focus
+
+I am currently learning JavaScript and building small projects to improve my programming skills.
+
+## Contact
+
+- GitHub: [@sidharthritesh18-dot](https://github.com/sidharthritesh18-dot )
+
