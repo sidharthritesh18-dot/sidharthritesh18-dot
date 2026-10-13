@@ -1,31 +1,32 @@
 # Hi, I'm Sidharth Ritesh
 
-## About Me
+Welcome to my GitHub profile!
 
-I am a beginner developer learning Git, GitHub, and programming. I enjoy building projects, learning new technologies, and improving my problem-solving skills.
+I am a beginner developer learning Git, GitHub, HTML, CSS, and JavaScript.
 
-## Currently Learning
+## My Projects
 
-- Git and GitHub
-- Programming fundamentals
-- Web development
-- Building projects step by step
+### Number Guessing Game
 
-## My Project
+A beginner-friendly game built with HTML, CSS, and JavaScript.
 
-### My First Project
+- [View the source code](https://github.com/sidharthritesh18-dot/number-guessing-game- )
+- [Play the game online](https://sidharthritesh18-dot.github.io/number-guessing-game-/ )
 
-This is my first project created and managed with Git and GitHub.
+## Skills I Am Learning
 
-[View my first project](https://github.com/sidharthritesh18-dot/my-first-project )
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- GitHub Pages
 
-## Goals
+## My Learning Goals
 
 - Build useful beginner projects
-- Develop strong programming fundamentals
-- Learn collaborative software development
-- Continue growing as a developer
+- Improve my JavaScript skills
+- Learn professional GitHub workflows
+- Create a strong developer portfolio
 
-## Contact
-
-You can connect with me through my GitHub profile.
+Thanks for visiting my profile!
